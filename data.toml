@@ -52,3 +52,18 @@ url = "https://kopubco.com/"
 [[sections.items]]
 title = "The Agorist Archives"
 url = "https://archives.kopubco.com/"
+
+[[sections]]
+title = "Other good libraries for more reading"
+description = "Without endorsement of anyone's content policy"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Free The People"
+url = "https://freethepeople.org/library/"
+[[sections.items]]
+title = "Mises Institute"
+url = "https://mises.org/library"
+[[sections.items]]
+title = "Center for a Stateless Society"
+url = "https://c4ss.org/resources"
