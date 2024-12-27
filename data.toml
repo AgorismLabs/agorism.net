@@ -14,8 +14,8 @@ description = "Science Fiction and Fantasy"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-title = "The Legend of Anarcho Clause"
-description = ""
+title = "The Legend of Anarcho Claus"
+description = "The Secret Story of Santa’s Rebel Son"
 url = ""
 
 [[sections]]
@@ -24,11 +24,11 @@ description = "Classic non-fiction"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-title = "New Libertarian Manifesto"
+title = "New Libertarian Manifesto by SEK3"
 description = ""
 url = ""
 [[sections.items]]
-title = "An Agorism Primer"
+title = "An Agorism Primer by SEK3"
 description = ""
 url = ""
 
@@ -49,3 +49,6 @@ url = "https://en.wikipedia.org/wiki/Agorism"
 [[sections.items]]
 title = "KoPubCo"
 url = "https://kopubco.com/"
+[[sections.items]]
+title = "The Agorist Archives"
+url = "https://archives.kopubco.com/"

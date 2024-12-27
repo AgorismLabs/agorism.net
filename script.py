@@ -131,7 +131,7 @@ with open("data.toml", "rb") as f:
             h("main", klass="container")(
                 sections,
             ),
-            footer,
+            #footer,
         ),
     ).render()
 
